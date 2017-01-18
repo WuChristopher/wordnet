@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="wordnet:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/wordnet_jar</output-path>
+    <root id="archive" name="wordnet.jar">
+      <element id="module-output" name="wordnet" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/algs4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
